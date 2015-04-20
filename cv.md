@@ -16,21 +16,24 @@ Cell: 508-776-8753
 
 ##Objective
 Seeking stable employment doing something that I enjoy and find fulfilling.
-Ideally I would like to find a company that I could stick with and grow with overtime. I would like to find a company that would allow me to build my professional portfolio and evolve my skills and add whatever talent and creativity I could bring to the team.
+Ideally I would like to find a company that I could stick with and grow with. I would like to find a company that would allow me to build my professional portfolio and evolve my skills and add whatever talent and creativity I could bring to the team.
 
 ##Skills
-Excellent Verbal and Written Communication Skills.
--  Advanced Technical Aptitude
--   Advanced Linux Knowledge
--   Maintaining various server configurations
+- Excellent Verbal and Written Communication Skills.
+- Advanced Technical Aptitude
+- Advanced Linux Knowledge
+- Maintaining various server configurations
 
 Offering all sorts of services over various
 Server environments. (Windows Server, CentOS, Ubuntu, RHEL, Debian, AWS, Google App Engine and move)
   Proficient Programming Knowledge (Always room to learn more...)
+
+
 -   Ruby + Rails + Rack
 -   Python
 -   HTML5
 -   PHP
+
   Highly Organized, Self-Starter, Team Player, Easy Going.
   I tend to be the mediator when situations arise. I also will 
 take charge if needed of me to organize the completion of some task.
