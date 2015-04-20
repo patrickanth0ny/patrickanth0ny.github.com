@@ -60,7 +60,7 @@ Custom System, Server and Device Configuration
 **Softlasers**
 March 2014– July 2014
 Updated outdated information and graphics on
-The 40 or so websites hosted by Softlasers/Coldlasers Inc.
+roughly 40 websites hosted by Softlasers/Coldlasers Inc.
 
 **Vista Companies**
 June 2014– August 2014
