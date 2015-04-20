@@ -25,7 +25,7 @@ Ideally I would like to find a company that I could stick with and grow with. I 
 - Maintaining various server configurations
 
 Offering all sorts of services over various
-Server environments. (Windows Server, CentOS, Ubuntu, RHEL, Debian, AWS, Google App Engine and move)
+Server environments. (Windows Server, CentOS, Ubuntu, RHEL, Debian, AWS, Google App Engine)
   Proficient Programming Knowledge (Always room to learn more...)
 
 
