@@ -22,7 +22,7 @@ Ideally I would like to find a company that I could stick with and grow with. I 
 - Excellent Verbal and Written Communication Skills.
 - Advanced Technical Aptitude
 - Advanced Linux Knowledge
-- Maintaining various server configurations
+- VMWare ESXi and KVM Virtualization Platforms
 
 Offering all sorts of services over various
 Server environments. (Windows Server, CentOS, Ubuntu, RHEL, Debian, AWS, Google App Engine)
