@@ -1,5 +1,5 @@
 # Site settings
-title: Blog
+title: "Is a title necessary?"
 email: patrickanthony@live.com
 description: > # this means to ignore newlines until "baseurl:"
   Started a basic blog site using Jekyll to generate a basic static website.
