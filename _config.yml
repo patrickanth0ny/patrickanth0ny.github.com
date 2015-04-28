@@ -1,5 +1,6 @@
 # Site settings
 title: "Posts"
+permalink: /:category/:title.html
 email: patrickanthony@live.com
 description: > # Welcome to my personal website dedicated to information
   about current and past projects of mine and tutorials on various technologies,
