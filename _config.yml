@@ -1,10 +1,9 @@
 # Site settings
-title: "Is a title necessary?"
+title: "Posts"
 email: patrickanthony@live.com
-description: > # this means to ignore newlines until "baseurl:"
-  Started a basic blog site using Jekyll to generate a basic static website.
-  As time goes by the site will be updated more often and may become something
-  less than basic.
+description: > # Welcome to my personal website dedicated to information
+  about current and past projects of mine and tutorials on various technologies,
+  services and application configurations.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://patrickanth0ny.github.io" # the base hostname & protocol for your site
 twitter_username: p_atrickanthony
